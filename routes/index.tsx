@@ -10,7 +10,7 @@ export default function Home() {
       <div class="p-4 mx-auto max-w-screen-md">
         <img
           src="/logo.svg"
-          class="w-32 h-32"
+          class="w-40 h-40 mx-auto"
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
         <p class="my-6">
